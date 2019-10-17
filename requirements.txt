@@ -1,6 +1,9 @@
+networkx==2.2
 elementals
 sark
-pydocstyle
+pydocstyle==3.0.0
 flake8
 click
-sklearn
+scipy==1.2.2
+numpy==1.16.5
+scikit-learn==0.20.3

@@ -20,3 +20,6 @@ docs/_templates/*
 /*/*.pyc
 /*/*/*.pyc
 /*/*/*/*.pyc
+
+# pyenv
+.python-version
